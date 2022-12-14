@@ -1,0 +1,22 @@
+id: A96625062
+title: Toh_260-The_Akasagarbha_Sutra-v1
+type: translation
+pechas:
+- I78EB26E4
+- I33A0B7B6
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-10-01T03:52:40.912Z'
+  creationid: esukhia
+  eft-text-id: UT22084-066-018
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_260-The_Akasagarbha_Sutra-v1
+alignment_to_base:
+  I78EB26E4/1837: D7FA
+  I33A0B7B6/18B9: D7FA
